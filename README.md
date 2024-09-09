@@ -18,5 +18,4 @@ Reduce Item by 1: Decreases the cart quantity by 1, ensuring that it does not go
 
 ## Code Overview
 
-The application is built using basic HTML and JavaScript. The JavaScript code initializes the cart quantity and includes logic for calculating costs and taxes. The total cost is calculated based on a simple formula and a tax rate of 10% is applied to the total cost.
-
+The application is built using basic HTML and JavaScript.
